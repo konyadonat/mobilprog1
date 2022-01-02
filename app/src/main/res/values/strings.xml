@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mobilprog_beadando_Konya_Donat</string>
+    <string name="mobilprogramozás_beadando">Mobilprogramozás beadandó</string>
+    <string name="weblap">Weblap</string>
+    <string name="parameter_ertek">Alap paraméter értéke: </string>
+    <string name="ertek_atadasa">Érték átadása</string>
+    <string name="listazas">Listázás</string>
+    <string name="bezaras">Bezárás</string>
+    <string name="textview">TextView</string>
+    <string name="kamera">Kamera</string>
+    <string name="fragment">Fragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="meme">Meme</string>
+    <string name="szin">Szín</string>
+    <string name="feldolgozottertek">Feldolgozott érték:</string>
+    <string name="shared_preferencesertekekeki_r_sa">Shared preferences értékek kiírása</string>
+    <string name="permission">Permission</string>
+</resources>
